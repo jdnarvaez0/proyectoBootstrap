@@ -1,0 +1,48 @@
+[debug] [2020-09-26T21:09:07.780Z] ----------------------------------------------------------------------
+[debug] [2020-09-26T21:09:07.784Z] Command:       /usr/bin/node /usr/bin/firebase init --debug
+[debug] [2020-09-26T21:09:07.785Z] CLI Version:   8.11.2
+[debug] [2020-09-26T21:09:07.785Z] Platform:      linux
+[debug] [2020-09-26T21:09:07.786Z] Node Version:  v14.10.0
+[debug] [2020-09-26T21:09:07.786Z] Time:          Sat Sep 26 2020 18:09:07 GMT-0300 (hora estándar de Argentina)
+[debug] [2020-09-26T21:09:07.787Z] ----------------------------------------------------------------------
+[debug] [2020-09-26T21:09:07.787Z] 
+[debug] [2020-09-26T21:09:07.802Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-09-26T21:09:07.864Z] Error: Could not load the default credentials. Browse to https://cloud.google.com/docs/authentication/getting-started for more information.
+    at GoogleAuth.getApplicationDefaultAsync (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:160:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async GoogleAuth.getClient (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:502:17)
+    at async GoogleAuth.getAccessToken (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:524:24)
+[error] 
+[error] Error: Failed to authenticate, have you run firebase login?
+[debug] [2020-09-26T21:09:56.668Z] ----------------------------------------------------------------------
+[debug] [2020-09-26T21:09:56.672Z] Command:       /usr/bin/node /usr/bin/firebase init --debug
+[debug] [2020-09-26T21:09:56.673Z] CLI Version:   8.11.2
+[debug] [2020-09-26T21:09:56.673Z] Platform:      linux
+[debug] [2020-09-26T21:09:56.673Z] Node Version:  v14.10.0
+[debug] [2020-09-26T21:09:56.674Z] Time:          Sat Sep 26 2020 18:09:56 GMT-0300 (hora estándar de Argentina)
+[debug] [2020-09-26T21:09:56.674Z] ----------------------------------------------------------------------
+[debug] [2020-09-26T21:09:56.675Z] 
+[debug] [2020-09-26T21:09:56.689Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-09-26T21:09:56.753Z] Error: Could not load the default credentials. Browse to https://cloud.google.com/docs/authentication/getting-started for more information.
+    at GoogleAuth.getApplicationDefaultAsync (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:160:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async GoogleAuth.getClient (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:502:17)
+    at async GoogleAuth.getAccessToken (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:524:24)
+[error] 
+[error] Error: Failed to authenticate, have you run firebase login?
+[debug] [2020-09-26T21:12:08.718Z] ----------------------------------------------------------------------
+[debug] [2020-09-26T21:12:08.722Z] Command:       /usr/bin/node /usr/bin/firebase init --debug
+[debug] [2020-09-26T21:12:08.723Z] CLI Version:   8.11.2
+[debug] [2020-09-26T21:12:08.723Z] Platform:      linux
+[debug] [2020-09-26T21:12:08.723Z] Node Version:  v14.10.0
+[debug] [2020-09-26T21:12:08.724Z] Time:          Sat Sep 26 2020 18:12:08 GMT-0300 (hora estándar de Argentina)
+[debug] [2020-09-26T21:12:08.724Z] ----------------------------------------------------------------------
+[debug] [2020-09-26T21:12:08.724Z] 
+[debug] [2020-09-26T21:12:08.739Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-09-26T21:12:08.804Z] Error: Could not load the default credentials. Browse to https://cloud.google.com/docs/authentication/getting-started for more information.
+    at GoogleAuth.getApplicationDefaultAsync (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:160:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async GoogleAuth.getClient (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:502:17)
+    at async GoogleAuth.getAccessToken (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:524:24)
+[error] 
+[error] Error: Failed to authenticate, have you run firebase login?
